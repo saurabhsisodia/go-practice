@@ -1,0 +1,4 @@
+- when to use nginx
+- github actions
+- api gateway (in java)
+
